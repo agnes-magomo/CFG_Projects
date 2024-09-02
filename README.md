@@ -6,7 +6,7 @@ Welcome to Kukosha Events! we specialise in providing beautiful customised decor
 
 ## Table of Contents
 * [About Us](#about-us)
-* [Services](#services-)
+* [Services](#services)
 * [Contact Us](#contact-us)
 
 ## About Us
