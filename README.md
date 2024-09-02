@@ -14,7 +14,11 @@ At Kukosha Events we pride ourselves in delivering high quality luxury decoratio
 
 
 ## Services 
-
+We provide a range of services:
+* **Wedding Decorations**: From elegant centerpieces to elaborate floral arches, we create the perfect atmosphere for your big day.
+* **Corporate Events**: Professional and sleek decorations that reflect your brand's identity and impress your guests.
+* **Birthday Parties**: Fun, vibrant and personalised decorations that ake every birthday special 
+* **Themed Events**: Whether it's vintage gala or a modern chic affair, we tailor the decor to match your theme.
 
 
 ## Contact Us
