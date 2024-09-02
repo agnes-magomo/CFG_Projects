@@ -7,7 +7,7 @@ Welcome to Kukosha Events! we specialise in providing beautiful customised decor
 ## Table of Contents
 * [About Us](#about-us)
 * [Services](#services-)
-* [Contact](#contact-us)
+* [Contact Us](#contact-us)
 
 ## About Us
 At Kukosha Events we pride ourselves in delivering high quality luxury decorations for your events.Our team combines creativity ad attention to detail to deliver breathtaking results that leave lasting memories.  
