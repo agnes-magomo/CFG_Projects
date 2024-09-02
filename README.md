@@ -18,5 +18,8 @@ At Kukosha Events we pride ourselves in delivering high quality luxury decoratio
 
 
 ## Contact Us
-
+Do you have any questions or are ready to start planning your event decor? Get in touch!
+* **Email**: kukoshaevents@gmail.com
+* **Phone**: 123456789
+* **Social Media**: Follow us on [Instagram](https://www.instagram.com/kukoshaevents/)
 
