@@ -7,12 +7,12 @@ are then given a total score after the game.
 ### Features:
 * Randomly generated trivia questions about Harry Potter characters 
 * Provides feedback for correct and incorrect answers
-* displays information about the character
+* Displays information about the character
 
 
 ### Instructions: ###
 1. Clone the repository 
-2. install required modules: The game requires the requests library
+2. Install required modules: The game requires the requests library
 
 ## API Used ##
 **Harry Potter API**: https://hp-api.onrender.com/api/characters
