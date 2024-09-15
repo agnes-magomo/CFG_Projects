@@ -17,6 +17,10 @@ are then given a total score after the game.
 ## API Used ##
 **Harry Potter API**: https://hp-api.onrender.com/api/characters
 
+The API is free and it provides information about various characters in happy potter
+It is used to randomly fetch data which is then transformed into questions for the user. 
+The data from the API is translated into JSON format to allow python readability
+
 ### How to play: 
 1. **Run the game**: Once game is started, a random question appears.
 2. **Answer the question**: Type your answer (remember to use capital letters for names).
