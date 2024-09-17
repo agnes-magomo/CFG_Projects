@@ -1,0 +1,4 @@
+requests
+
+#endpoint
+https://hp-api.onrender.com/api/characters
